@@ -1,0 +1,15 @@
+{
+  "name": "Commonplace",
+  "short_name": "Commonplace",
+  "description": "Seven ideas a day from great books, with real-life examples, reflection and review.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#6B5BD6",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
